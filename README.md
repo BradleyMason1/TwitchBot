@@ -1,2 +1,4 @@
-Hello, to use this twitch bot fill out the *** with your information.
-The file named "get_user_id" is a simple program once filled with the right information will give the user there user id, to make it a little easier.
+What Does This Bot Do?
+This Twitch bot detects when a specific Twitch user is live and sends a notification to a designated Discord channel to inform users in the Discord community. This can help increase engagement by notifying people when the user goes live.
+
+The bot is also designed to be easily extendable. You could add additional platforms, such as Twitter, to help further increase visibility and traction for a user’s channel.
